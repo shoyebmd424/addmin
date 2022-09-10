@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/addmin/static/css/main.6c6162b7.css",
+    "main.js": "/addmin/static/js/main.5d735fff.js",
+    "static/media/img1.png": "/addmin/static/media/img1.a0fca9c51749c1ee3db5.png",
+    "index.html": "/addmin/index.html",
+    "main.6c6162b7.css.map": "/addmin/static/css/main.6c6162b7.css.map",
+    "main.5d735fff.js.map": "/addmin/static/js/main.5d735fff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c6162b7.css",
+    "static/js/main.5d735fff.js"
+  ]
+}
